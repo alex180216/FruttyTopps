@@ -1,0 +1,15 @@
+<resources>
+    <!-- Activity inicio -->
+    <string name="app_name">FruttyTops</string>
+    <string name="et_nombre">¿Como te llamas?</string>
+    <string name="boton_jugar">JUGAR</string>
+    <string name="imag_desc">inicio</string>
+
+    <!--Activity nivel 1 -->
+    <string name="et_vidas">Manzanas: </string>
+    <string name="jugador_nombre">Jugador: </string>
+    <string name="total_score">Score:</string>
+    <string name="bt_suma">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+
+</resources>
